@@ -194,7 +194,11 @@
   {
     "title": "Thelazia callipaeda",
     "text": "Scientific name : Thelazia callipaeda\nCommon name : Oriental eye worm\nInfective form : L3 larva\nIH : face fly\nPH : none\nRH : dog , cat\nFH : human , dog , cat\nHuman is : FH\nHabitat : conjunctival sac\nDistribution : worldwide\nPathology : conjunctivitis , blindness\nDiagnosis :\nfinding worms in the conjunctival sac\nTreatment  :  surgery"
-  }
+  },
+{ 
+"title": "Loa loa",
+ "text": "Scientific name : Loa loa\nCommon name : African eye worm\nInfective form : L3 larva\nIH : mango fly\nPH : none\nRH : monkey , baboon\nFH : human\nHuman is : FH\nHabitat : subcutaneous tissue\nDistribution : Africa\nPathology : Calabar swelling\nconjunctivitis\nDiagnosis : blood smear\nTreatment :\nDEC\nalbendazole" 
+}
   ]
 
   
