@@ -1,193 +1,205 @@
 [
   {
     "title": "Sacrocystis hominis",
-    "img": "https://www.mcdinternational.org/trainings/malaria/english/DPDx5/images/ParasiteImages/S-Z/Sarcocystosis/Sarcocystis_wtmt_400x3.jpg",
     "text": "Scientific name: Sacrocystis hominis\nCommon name\nInfective form : mature sacrocyst\nIH: cattle\nPH: none\nRH : carnivores\nFH : human\nHuman is : FH\nHabitat :small intestine lamina propria\nDistribution : worldwide\nPathology : usually asymptomatic\nDiagnosis : stool examination\nbiopsy\nTreatment :no need to treat"
   },
   {
     "title": "Toxoplasma gondii",
-    "img": "https://lh3.googleusercontent.com/proxy/FUqBihbMG_BhLAbaDkQjimPBSW0xQ-ojbHqzrBTX7ctxu7U8vodtkufk_RVMqboQgJyXpv30AwSesTHodccXjFkEobT7sbO-FRiB4FkwIeaeEIMYrmT6PUKQcOC6AP0KklItByAF",
     "text": "Scientific name :Toxoplasma gondii\nCommon name\nInfective form : mature oocyst\nIH : mammals birds\nPH : none\nRH : feline\nFH : feline\nHuman is : IH\nHabitat : nucleated cells\nDistribution : worldwide\nPathology : lymphadenopathy\ncongenital infection\nDiagnosis : biopsy\nTreatment :pyrimethamine\nsulfadiazine\nclindamycin\nTMP-SMX"
   },
   {
     "title": "Trypanosoma brucei",
-    "img": "https://www.researchgate.net/profile/Alain-Buguet/publication/274267658/figure/fig2/AS:667785747251207@1536223937347/Trypanosoma-brucei-gambiense-bloodstream-slender-trypomastigote-thin-smear-May.png",
     "text": "Scientific name :Trypanosoma brucei \nCommon name\nInfective form : metacyclic trypomastigote\nIH : tsetse fly\nPH : none\nRH :pig dog\nFH : human\nHuman is : FH\nHabitat : blood\nDistribution : Africa\nPathology : Winterbottom\u0027s sign\nAfrican sleeping sickness\nchancre\nfever\nDiagnosis : CSF examination\nchancre fluid examination\nTreatment : \npantamidine\neflornithine"
   },
   {
     "title": "Trypanosoma cruzi",
-    "img": "https://www.researchgate.net/profile/Louisa-Messenger/publication/337566419/figure/fig1/AS:829846422831107@1574862213446/Trypanosoma-cruzi-morphological-forms-A-The-replicating-epimastigote-form-in-culture_Q640.jpg",
     "text": "lScientific name: Trypanosoma cruzi\nCommon name\nInfective form : metacyclic trypomastigote\nIH : kissing bug\nPH : none\nRH : dog cat\nFH : human\nHuman is : FH\nHabitat : nucleated cells\nDistribution : South America\nUSA\nPathology : Romana\u0027s sign\nchagoma\nhepatosplenomegaly\nmegaesophagus\nmegacolon\nDiagnosis : blood smear\nbiopsy\nTreatment: \nnifurtimox\nbenznidazole"
   },
   {
     "title": "Trypanosoma gambiense",
-    "img": "Trypanosoma gambiense",
     "text": "Scientific name : Trypanosoma gambiense\nCommon name\nInfective form : metacyclic trypomastigote\nIH : tsetse fly\nPH : none\nRH : pig dog\nFH : human\nHuman is : FH\nHabitat : blood\nDistribution : Africa\nPathology : Winterbottom\u0027s sign\nAfrican sleeping sickness\nchancre\nfever\nDiagnosis : CSF examination\nchancre fluid examination\nTreatment : \npantamidine\neflornithine"
   },
   {
     "title": "Plasmodium falciparum",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Plasmodium_falciparum_01.png",
     "text": "Scientific name : Plasmodium falciparum\nCommon name\nInfective form : sporozoite\nIH : human\nPH : none\nRH : primates\nFH : anopheles\nHuman is : IH\nHabitat : RBC\nDistribution : tropical areas\nPathology : periodic fever(48 hrs)\nanemia\nsplenomegaly\nrenal failure\nDiagnosis : blood smear\nTreatment :\nmefloquine\nprimaquine\nquinine\nchloroquine"
   },
   {
     "title": "Plasmodium malariae",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mature_Plasmodium_malariae_schizont_PHIL_2715_lores.jpg/1200px-Mature_Plasmodium_malariae_schizont_PHIL_2715_lores.jpg",
     "text": "Scientific name : Plasmodium malariae\nCommon name\nInfective form : sporozoite\nIH : human\nPH : none\nRH : primates\nFH : anopheles\nHuman is : IH\nHabitat : RBC\nDistribution : worldwide\nPathology : periodic fever(72 hrs)\nanemia\nsplenomegaly\nDiagnosis : blood smear\nTreatment :\nmefloquine\nprimaquine\nquinine\nchloroquine"
   },
   {
     "title": "Plasmodium ovale",
-    "img": "https://ars.els-cdn.com/content/image/3-s2.0-B9780128187319000410-f00041-02-9780128187319.jpg",
     "text": "Scientific name : Plasmodium ovale\nCommon name\nInfective form : sporozoite\nIH : human\nPH : none\nRH : primates\nFH : anopheles\nHuman is : IH\nHabitat : RBC\nDistribution : Africa\nPathology : periodic fever(48 hrs)\nanemia\nsplenomegaly\nDiagnosis : blood smear\nTreatment : \nmefloquine\nprimaquine\nquinine\nchloroquine"
   },
   {
     "title": "Plasmodium vivax",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/70/Plasmodium_vivax_01.png",
     "text": "Scientific name : Plasmodium vivax\nCommon name\nInfective form : sporozoite\nIH : human\nPH : none\nRH : primates\nFH : anopheles\nHuman is : IH\nHabitat : RBC\nDistribution : Asia\nAfrica South America\nPathology : periodic fever(48 hrs)\nanemia splenomegaly\nDiagnosis : blood smear\nTreatment : \nmefloquine\nprimaquine\nquinine\nchloroquine"
   },
   {
     "title": "Babesia microti",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Babesia_microti_CDC.jpg",
     "text": "Scientific name : Babesia microti\nCommon name\nInfective form : sporozoite\nIH : tick\nPH : none\nRH : rat\nFH : human\nHuman is : FH\nHabitat : RBC\nDistribution : USA\nPathology : fever\nhemolytic anemia\nDiagnosis : blood smear\nTreatment : \nclindamycin + quinine\natovaquone + azithromycin"
   },
   {
     "title": "Cryptosporidium parvum",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cryptosporidium_parvum_01.jpg",
     "text": "Scientific name : Cryptosporidium parvum\nCommon name\nInfective form : mature oocyst\nIH : none\nPH : none\nRH : cattle sheep \nFH :human\nHuman is : FH\nHabitat : small intestine\nDistribution : worldwide\nPathology : watery diarrhea\nDiagnosis : stool examination\nTreatment : \nnitazoxanide"
   },
   {
     "title": "Cyclospora cayetanensis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cyclospora_cayetanensis.jpg",
     "text": "Scientific name : Cyclospora cayetanensis\nCommon name\nInfective form : mature oocyst\nIH : none\nPH : none\nRH : none\nFH : human\nHuman is : FH\nHabitat : small intestine\nDistribution : worldwide\nPathology : watery diarrhea\nDiagnosis : stool examination\nTreatment : \nTMP-SMX"
   },
   {
     "title": "Isospora belli",
-    "img": "https://www.researchgate.net/profile/Andres-Ruf/publication/26768906/figure/fig1/AS:281765064265756@1444189434656/Isospora-belli-Kinyoun-technique.png",
     "text": "Scientific name : Isospora belli\nCommon name\nInfective form : mature oocyst\nIH : none\nPH : none\nRH : none\nFH : human\nHuman is : FH\nHabitat : small intestine\nDistribution : worldwide\nPathology : abdominal pain\ndiarrhea\nDiagnosis : stool examination\nTreatment : \nTMP-SMX"
   },
   {
     "title": "Chilomastix mesnili",
-    "img": "https://www.cdc.gov/dpdx/chilomastix/images/2/C_mesnili_cyst_trichrome_HB1.jpg",
     "text": "Scientific name : Chilomastix mesnili\nCommon name\nInfective form : mature cyst\nIH : none\nPH : none\nRH : pig primates\nFH : human\nHuman is : FH\nHabitat : large intestine\nDistribution : worldwide\nPathology : \nN.I.\nDiagnosis : \nN.I.\nTreatment :\nN.I."
   },
   {
     "title": "Giardia lamblia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Giardia_trophozoites_Giemsa.tif/lossy-page1-220px-Giardia_trophozoites_Giemsa.tif.jpg",
     "text": "Scientific name : Giardia lamblia\nCommon name\nInfective form : mature cyst\nIH : none\nPH : none\nRH : monkey dog pig\nFH :human\nHuman is : FH\nHabitat : small intestine\nDistribution : worldwide\nPathology abdominal pain\ndiarrhea nausea\nDiagnosis : stool examination\nTreatment : \nmetronidazole\ntinidazole"
   },
   {
     "title": "Enteromonas hominis",
-    "img": "https://www.pathologyoutlines.com/imgau/parasitologyehominispritt02.jpg",
     "text": "Scientific name : Enteromonas hominis\nCommon name\nInfective form : mature cyst\nIH : none\nPH : none\nRH : monkey rat\nFH : human\nHuman is : FH\nHabitat : large intestine\nDistribution : worldwide\nPathology :\nN.I.\nDiagnosis : \nN.I.\nTreatment : \nN.I."
   },
   {
     "title": "Retortamonas intestinalis",
-    "img": "https://www.mcdinternational.org/trainings/malaria/english/DPDx5/images/ParasiteImages/M-R/Retortamonas/R_intestinalis_cyst_BAM3.jpg",
     "text": "Scientific name : Retortamonas intestinalis\nCommon name\nInfective form : mature cyst\nIH : none\nPH : none\nRH : monkey\nFH : human\nHuman is : FH\nHabitat : large intestine\nDistribution : worldwide\nPathology : \nN.I.\nDiagnosis : \nN.I.\nTreatment : \nN.I."
   },
   {
     "title": "Trichomonas vaginalis",
-    "img": "https://en.vircell.com/media/filer_public_thumbnails/filer_public/3d/a8/3da8f9b7-3e19-4886-9d3a-ef89811945a5/trichomonas_web.jpg__409x999_q85_subsampling-2_upscale.jpg",
     "text": "Scientific name : Trichomonas vaginalis\nCommon name\nInfective form : trophozoite\nIH : none\nPH : none\nRH : none\nFH : human\nHuman is : FH\nHabitat : vagina urethra\nDistribution : worldwide\nPathology vaginitis\nurethritis prostatitis\nDiagnosis : vaginal secretion examination urethral secretion examination\nTreatment : \nmetronidazole\ntinidazole"
   },
   {
     "title": "Trichomonas tenax",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Trichomonas_gingivalis.png",
     "text": "Scientific name : Trichomonas tenax\nCommon name\nInfective form : trophozoite\nIH :none\nPH : none\nRH : primates\nFH : human\nHuman is : FH\nHabitat : gingiva nasopharynx\nDistribution : worldwide\nPathology : \nN.I.\nDiagnosis : \nN.I.\nTreatment :\nN.I."
   },
   {
     "title": "Dientamoeba fragilis",
-    "img": "https://www.mcdinternational.org/trainings/malaria/english/DPDx5/images/ParasiteImages/A-F/Dientamoeba/D_fragilis_binuc_HSB_MCS1.jpg",
     "text": "Scientific name : Dientamoeba fragilis\nCommon name\nInfective form : trophozoite\nIH : none\nPH : none\nRH : monkey\nFH : human\nHuman is : FH\nHabitat : large intestine\nDistribution : worldwide\nPathology : \nN.I.\nDiagnosis : \nN.I.\nTreatment :\nN.I."
   },
   {
     "title": "Balantidium coli",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Balantidium_coli_trophozoite.jpg",
     "text": "Scientific name : Balantidium coli\nCommon name\nInfective form : mature cyst\nIH : none\nPH : none\nRH : pig rat\nFH : human\nHuman is : FH\nHabitat : large intestine\nDistribution : worldwide\nPathology : diarrhea\nabdominal pain ulcer\nDiagnosis : stool examination\nTreatment : \ntetracycline\nmetronidazole\niodoquinol"
   },
   {
     "title": "Entamoeba histolytica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Entamoeba_histolytica.jpg/220px-Entamoeba_histolytica.jpg",
     "text": "Scientific name : Entamoeba histolytica\nCommon name\nInfective form : mature cyst\nIH : none\nPH : none\nRH : monkey dog pig\nFH : human\nHuman is : FH\nHabitat : large intestine\nDistribution : worldwide\nPathology : intestinal amebiasis\nDiagnosis : stool examination\nTreatment : \nmetronidazole\nluminal amoebicides"
   },
   {
     "title": "Fasciolopsis buski",
-    "img": "http://outbreaknewstoday.com/wp-content/uploads/2016/02/F.-buski-egg.jpg",
     "text": "Scientific name: Fasciolopsis buski\nCommon name: Giant intestinal fluke\nInfective form: metacercaria\nIH : planorbidae\nPH : none\nRH : pig\nFH :human\nHuman is : FH\nHabitat : small intestine\nDistribution : Asia\nPathology : diarrhea edema fever\nabdominal pain\nDiagnosis : stool examination\nTreatment : praziquantel"
   },
   {
     "title": "Fasciola hepatica",
-    "img": "https://healthjade.net/wp-content/uploads/2020/07/fascioliasis.jpg",
     "text": "Scientific name: Fasciola hepatica\nCommon name: Sheep liver fluke\nInfective form: metacercaria\nIH : snail\nPH : none\nRH : herbivores\nFH :human\nHuman is : FH\nHabitat : bile duct\nDistribution : worldwide\nPathology : biliary obstruction\nbiliary inflammation\nhepatomegaly\nhalzoun\nDiagnosis : stool examination\nTreatment : triclabendazole"
   },
   {
     "title": "Dicrocoelium dendriticum",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Dicrocoelium-adult-fresh.jpg",
     "text": "Scientific name: Dicrocoelium dendriticum\nCommon name: The lancet fluke\nInfective form: metacercaria\nIH : 1st:snail 2nd: ant\nPH : none\nRH : herbivores\nFH :human\nHuman is : FH\nHabitat : bile duct\nDistribution : worldwide\nPathology : bile duct\ncholecystitis\nliver abscess\nabdominal pain\nDiagnosis : stool examination\nTreatment : praziquantel"
   },
   {
     "title": "Schistosoma mansoni",
-    "img": "https://www.researchgate.net/profile/Ml-Lontie/publication/263054045/figure/fig1/AS:601674079014934@1520461687570/Egg-of-Schistosoma-mansoni-with-a-lateral-spine-in-faeces-from-patient-2_Q640.jpg",
     "text": "Scientific name: Schistosoma mansoni\nCommon name: Manson\u0027s blood fluke\nInfective form: cercaria\nIH : snail\nPH : none\nRH : monkey , rat\nFH :human\nHuman is : FH\nHabitat : bile duct\nDistribution : Africa\nSouth America\nmiddle East\nPathology : Katayama fever\nhepatosplenomegaly\nperiportal fibrosis\ngranuloma\nDiagnosis : stool examination\nTreatment : praziquantel"
   },
   {
     "title": "Schistosoma haematobium",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Schistosoma_haematobium_egg_4843_lores.jpg",
     "text": "Scientific name: Schistosoma haematobium\nCommon name: The vesicle blood fluke\nInfective form: cercaria\nIH : snail\nPH : none\nRH : monkey ، baboon\nFH :human\nHuman is : FH\nHabitat : mesenteric vein\nDistribution : Africa\nmiddle East\nPathology : granuloma\ncystitis\nureteritis\nbladder cancer\nDiagnosis : Urine examination\nTreatment : praziquantel"
   },
   {
     "title": "Schistosoma japonicum",
-    "img": "https://media.springernature.com/original/springer-static/image/prt%3A978-3-662-43978-4%2F19/MediaObjects/978-3-662-43978-4_19_Part_Fig5-2824_HTML.jpg",
     "text": "Scientific name: Schistosoma japonicum\nCommon name: The oriental blood fluke\nInfective form: cercaria\nIH : snail\nPH : none\nRH : pig , rat\nFH :human\nHuman is : FH\nHabitat : mesenteric vein\nDistribution : far East\nPathology : Katayama fever\nhepatosplenomegaly\nperiportal fibrosis\ngranuloma\nDiagnosis : Stool examination\nTreatment : praziquantel"
   },
   {
     "title": "Paragonimus westermani",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Paragonimus_westermani.png",
     "text": "Scientific name: Paragonimus westermani\nCommon name: Oriental lung fluke\nInfective form: metacercaria\nIH : 1st: semisulcospira ، thiara 2nd:\ncrab ،shrimp\nPH : pig\nRH : dog ، cat\nFH :human\nHuman is : FH\nHabitat : lung\nDistribution : Asia\nPathology : hemoptysis\nectopic parasitism\neosinophilia\npneumothorax\nleukocytic infiltration\nDiagnosis : stool examination\nsputum examination\nTreatment : praziquantel"
   },
   {
     "title": "Clonorchis sinensis",
-    "img": "https://www.researchgate.net/publication/299472127/figure/fig1/AS:345019249643523@1459270407955/Clonorchis-sinensis-ova-had-characteristics-of-light-yellow-color-prominent-shoulder-rim_Q640.jpg",
     "text": "Scientific name: Clonorchis sinensis\nCommon name: Chinese liver fluke\nInfective form: metacercaria\nIH : 1st: snail 2nd: freshwater fish\nPH : none\nRH : cat\nFH :human\nHuman is : FH\nHabitat : bile duct\nDistribution : far East\nPathology : biliary obstruction\nbiliary inflammation\ncholangiocarcinoma\ncholangitis\npancreatitis\nDiagnosis : stool examination\nTreatment : praziquantel albendazole"
   },
   {
     "title": "Heterophyes heterophyes",
-    "img": "https://www.veterinaryparasitology.com/uploads/1/1/8/2/118230013/1b-heterophyes-heterophyes-logo_orig.jpg",
     "text": "Scientific name: Heterophyes heterophyes\nCommon name: ..........\nInfective form: metacercaria\nIH : 1st: snail 2nd: fresh/brackish water fish\nPH : none\nRH : cat\nFH :human\nHuman is : FH\nHabitat : small intestine\nDistribution : Egypt\nmiddle East far East\nPathology : myocarditis\ndiarrhea\nDiagnosis : stool examination\nTreatment : praziquantel"
   },
   {
     "title": "Metagonimus Yokogawai",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Metag_yokog_A.jpg",
     "text": "Scientific name: Metagonimus Yokogawai\nCommon name: Yokogawa\u0027s fluke\nInfective form: metacercaria\nIH : 1st: snail 2nd: freshwater fish\nPH : none\nRH : cat , dog\nFH :human\nHuman is : FH\nHabitat : small intestine\nDistribution : far East\nPathology : diarrhea\nDiagnosis : stool examination\nTreatment : praziquantel"
   },
   {
     "title": "Acanthamoeba castellanii",
-    "img": "https://www.eyenews.uk.com/media/21447/henriquez-1.jpg?width\u003d329",
     "text": "Scientific name: Acanthamoeba castellanii\nCommon name\nInfective form : trophozoite\nIH : none\nPH : none\nRH : none\nFH : human\nHuman is FH\nHabitat : tissues\nDistribution : worldwide\nPathology:\ngranulomatous amebic encephalitis\namebic keratitis\nDiagnosis : \nCSF examination\ncorneal scraping\nTreatment :\nketoconazole\nmiconazole"
   },
   {
     "title": "Ancylostoma braziliense",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ancylostoma_braziliense_mouth_parts_CDC_PHIL_ID1375.jpg",
     "text": "Scientific name :Ancylostoma braziliense\nCommon name : Dog and cat hookworm\nInfective form : F-form larva\nIH : none\nPH : human\nRH : dog  cat\nFH : dog  cat\nHuman is PH\nHabitat : subcutaneous tissue\nDistribution : worldwide\nPathology : CLM\nDiagnosis : biopsy\nTreatment :\nalbendazole\nmebendazole"
   },
   {
     "title": "Ancylostoma caninum",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Anterior_end_of_A._caninum.jpg",
     "text": "Scientific name : Ancylostoma caninum\nCommon name : Dog hookworm\nInfective form : F-form larva\nIH : none\nPH : human\nRH : dog\nFH : dog\nHuman is PH\nHabitat : small intestine\nDistribution : worldwide\nPathology  : CLM\neosinophilic enteritis\nDiagnosis  : biopsy\nTreatment\nalbendazole\nmebendazole"
   },
   {
     "title": "Ancylostoma ceylanicum",
-    "img": "https://www.parasite.org.au/pugh-collection/JpegsStamped/Ancylostoma%20ceylanicum%20%2010.jpg",
     "text": "Scientific name : Ancylostoma ceylanicum\nCommon name : Ceylon hookworm\nInfective form : F-form larva\nIH : none\nPH : N.I.\nRH : dog   cat\nFH : human   dog  cat\nHuman is   FH\nHabitat  : small intestine\nDistribution : worldwide\nPathology : CLM\niron deficiency anemia\nDiagnosis : stool examination (floatation method)\nTreatment\nalbendazole\nmebendazole"
   },
   {
     "title": "Ancylostoma duodenale",
-    "img": "https://www.cdc.gov/dpdx/hookworm/images/3/Hookworm_filariform_A.jpg",
     "text": "Scientific name : Ancylostoma duodenale\nCommon name : Old world hookworm\nInfective form : F-form larva\nIH : none\nPH : N.I.\nRH : none\nFH : human\nHuman is : FH\nHabitat : jejunum\nDistribution : worldwide\nPathology : CLM\niron deficiency anemia\nwakana disease\nDiagnosis : \nstool examination (floatation method)\nTreatment :\nalbendazole\nmebendazole"
   },
   {
     "title": "Angiostrongylus cantonensis",
-    "img": "https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/140903/896114/gr1.jpg",
     "text": "Scientific name : Angiostrongylus cantonensis\nCommon name : Rat lungworm\nInfective form : L3 larva\nIH : snail  whelk  slug\nPH : shrimp  frog   crab\nRH : rat\nFH : rat\nHuman is : AH\nHabitat : brain\nDistribution : worldwide\nPathology : eosinophilic meningitis\nheadache  eosinophilia  ocular invasion\nDiagnosis : CSF examination\nTreatment ;\nsupportive treatment"
+  },
+  {
+    "title": "Anisakis simplex",
+    "text": "Scientific name :Anisakis simplex\nCommon name : \nInfective form : L3 larva\nIH : crustaceans\nPH : sea fish  squid\nRH : marine mammals\nFH  : marine mammals\nHuman is : AH\nHabitat : stomach small intestine\nDistribution : worldwide\nPathology : abdominal pain nausea\neosinophilia granuloma\nDiagnosis : endoscopy\nTreatment ;\nalbendazole\nsurgery"
+  },
+  {
+    "title": "Ascaris lumbricoides",
+    "text": "Scientific name : Ascaris lumbricoides\nCommon name : The giant intestinal roundworm\nInfective form : mature egg\nIH  : none\nPH : none\nRH : pig\nFH : human\nHuman is FH\nHabitat : small intestine\nDistribution : worldwide\nPathology :\nLoeffler\u0027s syndrome\npulmonary lesions\neosinophilia\nfever\ncough\nintestinal obstruction\nmalnutrition\npica\nDiagnosis  : stool examination\nTreatment :\nalbendazole\nmebendazole"
+  },
+  {
+    "title": "Trichuris trichiura",
+    "text": "Scientific name : Trichuris trichiura\nCommon name : Whipworm\nInfective form : mature egg\nIH : none\nPH : none\nRH : none\nFH : human\nHuman is FH \nHabitat : cecum\nDistribution  : worldwide\nPathology : \nrectal prolapse\nabdominal pain\ndiarrhea\nDiagnosis : stool examination\nTreatment : \nalbendazole\nmebendazole\nivermectin"
+  },
+  {
+    "title": "Babesia divergens",
+    "text": "Scientific name : Babesia divergens\nCommon name : \nInfective form : sporozoite\nIH : tick\nPH : none\nRH : cattle\nFH : human\nHuman is : FH\nHabitat : RBC\nDistribution : Europe\nPathology :\nfever\nhemolytic anemia\nDiagnosis :  blood smear\nTreatment :\nclindamycin + quinine\natovaquone + azithromycin"
+  },
+  {
+    "title": "Brugia malayi",
+    "text": "Scientific name : Brugia malayi\nCommon name : \nInfective form : L3 larva\nIH : mosquito\nPH : none\nRH : dog , cat\nFH : human\nHuman is : FH\nHabitat : lymph nodes\nDistribution : Asia\nPathology : lymphatic filariasis\ntropical pulmonary eosinophilia\nabscess\nDiagnosis : blood smear\nTreatment : DEC"
+  },
+  {
+    "title": "Brugia timori",
+    "text": "Scientific name : Brugia timori\nCommon name : \nInfective form : L3 larva\nIH : mosquito\nPH : none\nRH : none\nFH  : human\nHuman is : FH\nHabitat : lymph nodes\nDistribution : Indonesia\nPathology : \nlymphatic filariasis\ntropical pulmonary eosinophilia\nabscess\nDiagnosis : blood smear\nTreatment : DEC"
+  },
+  {
+    "title": "Trichostrongylus orientalis",
+    "text": "Scientific name : Trichostrongylus orientalis\nCommon name : \nInfective form : F-form larva\nIH : none\nPH : N.I.\nRH : herbivores\nFH : herbivores\nHuman is : AH\nHabitat : small intestine\nDistribution : far East\nPathology : abdominal pain diarrhea , headache\nanemia , eosinophilia\nDiagnosis : stool examination\nTreatment :\npyrantel pamoate\nalbendazole\nmebendazole"
+  },
+  {
+    "title": "Trichinella spiralis",
+    "text": "Scientific name : Trichinella spiralis\nCommon name : Trichina worm\nInfective form : encysted larva\nIH : none\nPH : none\nRH : carnivores\nFH : human\nHuman is : FH\nHabitat : small intestine\nmuscle(larva)\nDistribution : worldwide\nPathology : gastrointestinal symptoms\nsplinter hemorrhages\nmyocarditis\nCNS involvement\nDiagnosis : biopsy\nTreatment :\nalbendazole\nmebendazole"
+  },
+  {
+    "title": "Toxocara cati",
+    "text": "Scientific name : Toxocara cati\nCommon name : Cat roundworm\nInfective form : mature egg\nIH : none\nPH : human\nRH : cat\nFH : cat\nHuman is : PH\nHabitat : tissues\nDistribution : worldwide\nPathology : OLM , VLM ,NLM\neosinophilia , fever , granuloma\nDiagnosis : biopsy , serological test\nTreatment :\nalbendazole\nmebendazole"
+  },
+  {
+    "title": "Toxocara canis",
+    "text": "Scientific name : Toxocara canis\nCommon name : Dog roundworm\nInfective form : mature egg\nIH : none\nPH : human\nRH : dog\nFH : dog\nHuman is : PH\nHabitat : tissues\nDistribution : worldwide\nPathology : OLM , VLM , NLM\neosinophilia , fever , granuloma\nDiagnosis :  biopsy ,serological test\nTreatment :\nalbendazole\nmebendazole"
+  },
+  {
+    "title": "Thelazia callipaeda",
+    "text": "Scientific name : Thelazia callipaeda\nCommon name : Oriental eye worm\nInfective form : L3 larva\nIH : face fly\nPH : none\nRH : dog , cat\nFH : human , dog , cat\nHuman is : FH\nHabitat : conjunctival sac\nDistribution : worldwide\nPathology : conjunctivitis , blindness\nDiagnosis :\nfinding worms in the conjunctival sac\nTreatment  :  surgery"
+  },
+  {
+    "title": "",
+    "text": ""
+  }
+]p  frog   crab\nRH : rat\nFH : rat\nHuman is : AH\nHabitat : brain\nDistribution : worldwide\nPathology : eosinophilic meningitis\nheadache  eosinophilia  ocular invasion\nDiagnosis : CSF examination\nTreatment ;\nsupportive treatment"
   },
   {
     "title": "Anisakis simplex",
